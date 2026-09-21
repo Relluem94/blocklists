@@ -18673,6 +18673,7 @@ hive-portal-sandbox-api.sandbox.pagaya.cloud
 hive-portal-sandbox.sandbox.pagaya.cloud
 hive.annalect.com
 hive.beeketing.com
+hive.com
 hive.grsm.io
 hive.rckbusiness.digital
 hive.splitbee.io
