@@ -71813,7 +71813,6 @@ twitter-srv.buysellads.com
 twitter-verifiedaccounts.online
 twitter.activitypub.actor
 twitter.cm
-twitter.com
 twitter.edge.twitpost.info
 twitter.sextilefona.com
 twitter.sx
