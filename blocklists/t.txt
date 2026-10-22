@@ -561,7 +561,6 @@ t.cn
 t.cn-rtb.com
 t.cnscore.com
 t.cnzz.com
-t.co
 t.cofcsports.com
 t.coffeecircle.com
 t.collect.yinyuetai.com
@@ -71814,7 +71813,6 @@ twitter-srv.buysellads.com
 twitter-verifiedaccounts.online
 twitter.activitypub.actor
 twitter.cm
-twitter.com
 twitter.edge.twitpost.info
 twitter.sextilefona.com
 twitter.sx
