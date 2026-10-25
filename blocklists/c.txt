@@ -250463,7 +250463,6 @@ csp.trovi.com
 csp.walmart.com
 csp.withgoogle.com
 csp.yahoo.com
-csp.yandex.net
 csp2c04.na1.hubspotlinks.com
 csp38.domdog.io
 csp6-04.na1.hubspotlinks.com
