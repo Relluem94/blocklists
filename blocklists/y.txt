@@ -1342,7 +1342,6 @@ yandex.31vaktiamp.pp.ua
 yandex.bd
 yandex.cfd
 yandex.co.cc
-yandex.ru
 yandex.serulom.tk
 yandex.st
 yandex.us
@@ -1743,7 +1742,6 @@ yassineexchange.com
 yassra.com
 yast.rutube.ru
 yastatic.display.asas.yango.com
-yastatic.net
 yastatic.rm.space.yango.com
 yasteluni.info
 yastle.com

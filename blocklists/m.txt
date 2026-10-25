@@ -25717,11 +25717,9 @@ mc.webvisor.com
 mc.webvisor.org
 mc.yads.tech
 mc.yandex.by
-mc.yandex.com
 mc.yandex.com.tr
 mc.yandex.kz
 mc.yandex.md
-mc.yandex.ru
 mc.yango.com
 mc.zumigo.com
 mc01.eulerian.net
